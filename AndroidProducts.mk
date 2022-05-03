@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_mi439.mk
+    $(LOCAL_DIR)/yapp_mi439.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_mi439-user \
-    nad_mi439-userdebug \
-    nad_mi439-eng
+    yapp_mi439-user \
+    yapp_mi439-userdebug \
+    yapp_mi439-eng
